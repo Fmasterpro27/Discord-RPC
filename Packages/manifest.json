@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.discord.partnersdk": "file:C:/Users/91706/Downloads/DiscordSocialSdk-UnityPlugin-1.9.15780/com.discord.partnersdk",
     "com.unity.2d.animation": "14.0.4",
     "com.unity.2d.aseprite": "4.0.2",
     "com.unity.2d.psdimporter": "13.0.3",
