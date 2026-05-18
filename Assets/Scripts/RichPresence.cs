@@ -29,12 +29,11 @@ public class RichPresence : MonoBehaviour
         client = new Client();
         client.SetApplicationId(applicationId);
 
-        // ✅ Use seconds (not milliseconds) for Discord timestamps
+
         startTimestamp = (ulong)System.DateTimeOffset.UtcNow.ToUnixTimeSeconds();
         UpdateRichPresence(ActivityTypes.Playing, startState, startDetails);
     }
 
-    // ✅ No Update() needed — Discord Social SDK is event-driven, not polling-based
 
     public void UpdateRichPresence(ActivityTypes type, string state, string details)
     {
