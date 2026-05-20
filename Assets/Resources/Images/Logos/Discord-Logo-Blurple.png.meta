@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 108a65e0d82171b4caaf86c4df3281bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7784043318404307190
+    second: Discord-Logo-Blurple_0
+  - first:
+      213: 8647089561269985606
+    second: Discord-Logo-Blurple_1
+  - first:
+      213: 7185533716064069994
+    second: Discord-Logo-Blurple_2
+  - first:
+      213: 4371258779206640233
+    second: Discord-Logo-Blurple_3
+  - first:
+      213: 4848728758014414051
+    second: Discord-Logo-Blurple_4
+  - first:
+      213: -6668753054866029997
+    second: Discord-Logo-Blurple_5
+  - first:
+      213: -2647820576911526396
+    second: Discord-Logo-Blurple_6
+  - first:
+      213: -5232459035931356930
+    second: Discord-Logo-Blurple_7
+  - first:
+      213: 7319838502897807376
+    second: Discord-Logo-Blurple_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Discord-Logo-Blurple_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 529
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a072242f7d589f390800000000000000
+      internalID: -7784043318404307190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discord-Logo-Blurple_1
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 61
+        width: 334
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6416c784422a00870800000000000000
+      internalID: 8647089561269985606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discord-Logo-Blurple_2
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 272
+        width: 102
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69679b18d428b360800000000000000
+      internalID: 7185533716064069994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discord-Logo-Blurple_3
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 53
+        width: 252
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9626be323b4d9ac30800000000000000
+      internalID: 4371258779206640233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discord-Logo-Blurple_4
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 53
+        width: 259
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec8ba1ad152a4340800000000000000
+      internalID: 4848728758014414051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discord-Logo-Blurple_5
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 53
+        width: 311
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352c8eddd64d373a0800000000000000
+      internalID: -6668753054866029997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discord-Logo-Blurple_6
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 61
+        width: 209
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406f73cc63d014bd0800000000000000
+      internalID: -2647820576911526396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discord-Logo-Blurple_7
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 53
+        width: 312
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef05785ca329267b0800000000000000
+      internalID: -5232459035931356930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discord-Logo-Blurple_8
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 60
+        width: 102
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0107372165a459560800000000000000
+      internalID: 7319838502897807376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0a6849abc6d3cec4e9f8605a186b31f1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Discord-Logo-Blurple_0: -7784043318404307190
+      Discord-Logo-Blurple_1: 8647089561269985606
+      Discord-Logo-Blurple_2: 7185533716064069994
+      Discord-Logo-Blurple_3: 4371258779206640233
+      Discord-Logo-Blurple_4: 4848728758014414051
+      Discord-Logo-Blurple_5: -6668753054866029997
+      Discord-Logo-Blurple_6: -2647820576911526396
+      Discord-Logo-Blurple_7: -5232459035931356930
+      Discord-Logo-Blurple_8: 7319838502897807376
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
