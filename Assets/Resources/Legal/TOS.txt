@@ -1,0 +1,42 @@
+================================================================
+                    NTX RPC - TERMS OF SERVICE
+================================================================
+
+Last Updated: June 2026
+
+NTX RPC is a free, open-source Discord Rich Presence application
+developed independently and not affiliated with Discord Inc.
+
+----------------------------------------------------------------
+1. AS-IS SOFTWARE
+   NTX RPC is provided "as is" without warranties of any kind,
+   express or implied.
+
+2. USER RESPONSIBILITY
+   You are solely responsible for how you use this software and
+   any consequences arising from that use.
+
+3. DISCORD COMPLIANCE
+   You must comply with Discord's Terms of Service at all times
+   while using NTX RPC.
+
+4. NO LIABILITY
+   The developers of NTX RPC are not liable for any data loss,
+   damages, or issues resulting from the use of this software.
+
+5. CHANGES & DISCONTINUATION
+   NTX RPC may be updated, modified, or discontinued at any time
+   without prior notice.
+
+6. ACCEPTANCE
+   By using NTX RPC, you agree to these terms.
+
+7. OPEN SOURCE LICENSE
+   NTX RPC is distributed under the GNU Affero General Public
+   License v3.0 (AGPL-3.0). Your use of the software is subject
+   to the terms of that license.
+
+
+----------------------------------------------------------------
+Source: https://github.com/Fmasterpro27/NTX-Rpc
+================================================================

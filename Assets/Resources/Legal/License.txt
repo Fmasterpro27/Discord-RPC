@@ -1,0 +1,23 @@
+================================================================
+                      NTX RPC - LICENSE
+================================================================
+
+NTX RPC is licensed under the
+GNU Affero General Public License v3.0 (AGPL-3.0).
+
+----------------------------------------------------------------
+YOU ARE FREE TO:
+
+  - Use       - Run the software for any purpose
+  - Study     - Access and read the source code
+  - Modify    - Make changes to the software
+  - Distribute- Share copies with others
+
+All subject to the conditions of the AGPL-3.0 license.
+
+----------------------------------------------------------------
+FULL LICENSE:
+https://github.com/Fmasterpro27/NTX-Rpc/blob/main/LICENSE
+
+Source: https://github.com/Fmasterpro27/NTX-Rpc
+================================================================

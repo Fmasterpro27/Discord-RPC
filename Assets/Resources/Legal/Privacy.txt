@@ -1,0 +1,30 @@
+================================================================
+                    NTX RPC - PRIVACY POLICY
+================================================================
+
+Last Updated: June 2026
+
+
+
+NTX RPC DOES NOT COLLECT YOUR DATA.
+
+* No personal data is collected, stored, or transmitted.
+* No analytics, telemetry, or tracking of any kind.
+* No advertising networks or third-party data sharing.
+* All settings and Rich Presence configuration are stored and
+  processed locally on your device only.
+* NTX RPC does not communicate with any servers operated by
+  the developers.
+
+Your privacy is fully respected. Nothing leaves your machine
+except communication required by Discord's official SDK.
+
+---
+
+CHANGES TO THIS POLICY
+Any updates to this policy will be published in the
+application and in the GitHub repository.
+
+# Source: https://github.com/Fmasterpro27/NTX-Rpc
+
+================================================================

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 5103ca79ce6aee44483e83e256fd1625
+guid: 30e27b281f7b6844dad1b247592441e1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7792804446139171952
-    second: ntx-half-logo_0
+      213: -7571264537781892453
+    second: ntx-logo-white_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -96,17 +96,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ntx-half-logo_0
+      name: ntx-logo-white_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 455
-        height: 325
+        width: 1536
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 09b3acfe4a56ad390800000000000000
-      internalID: -7792804446139171952
+      spriteID: b9a8ff464077de690800000000000000
+      internalID: -7571264537781892453
       vertices: []
       indices: 
       edges: []
@@ -135,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ntx-half-logo_0: -7792804446139171952
+      ntx-logo-white_0: -7571264537781892453
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

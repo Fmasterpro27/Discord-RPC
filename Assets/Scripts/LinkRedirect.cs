@@ -2,17 +2,44 @@ using UnityEngine;
 
 public class LinkRedirect : MonoBehaviour
 {
-    [SerializeField]
-    private string targetUrl = "https://github.com/Fmasterpro27/NTX-Rpc";
+    [Header("External Links")]
+    [SerializeField] private string githubUrl =
+        "https://github.com/Fmasterpro27/NTX-Rpc";
 
-    public void OpenLink()
+    [SerializeField] private string privacyUrl =
+        "https://ntx-rpc.markmazi4030mgaming70.workers.dev/privacy";
+
+    [SerializeField] private string termsUrl =
+        "https://ntx-rpc.markmazi4030mgaming70.workers.dev/terms";
+
+    [SerializeField] private string brandingUrl =
+        "https://ntx-rpc.markmazi4030mgaming70.workers.dev/branding";
+
+    [SerializeField] private string licenseUrl =
+        "https://ntx-rpc.markmazi4030mgaming70.workers.dev/Licenses";
+
+    public void OpenGithub()
     {
-        if (string.IsNullOrWhiteSpace(targetUrl))
-        {
-            Debug.LogWarning("Target URL is empty!");
-            return;
-        }
+        Application.OpenURL(githubUrl);
+    }
 
-        Application.OpenURL(targetUrl);
+    public void OpenPrivacy()
+    {
+        Application.OpenURL(privacyUrl);
+    }
+
+    public void OpenTerms()
+    {
+        Application.OpenURL(termsUrl);
+    }
+
+    public void OpenBranding()
+    {
+        Application.OpenURL(brandingUrl);
+    }
+
+    public void OpenLicense()
+    {
+        Application.OpenURL(licenseUrl);
     }
 }

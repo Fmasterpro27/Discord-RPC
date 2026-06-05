@@ -1,0 +1,33 @@
+================================================================
+                 NTX RPC - BRANDING & TRADEMARKS
+================================================================
+
+The NTX RPC name, logos, icons, branding assets, and visual
+identity are proprietary and are NOT covered by the AGPL-3.0
+license.
+
+----------------------------------------------------------------
+WHAT YOU CAN DO:
+
+  - Use, modify, and redistribute the source code freely
+    in accordance with the AGPL-3.0 license.
+
+WHAT YOU CANNOT DO:
+
+  - Use the NTX RPC name, logo, icons, or any branding
+    to represent modified or derivative versions of the
+    software without prior written permission.
+
+----------------------------------------------------------------
+FORKS & DERIVATIVE WORKS:
+
+  All forks and derivative works must remove or replace all
+  NTX RPC branding — including the name, logos, and application
+  icons — before any public distribution.
+
+----------------------------------------------------------------
+For branding permissions, contact via GitHub:
+https://github.com/Fmasterpro27/NTX-Rpc
+
+Source: https://github.com/Fmasterpro27/NTX-Rpc
+================================================================
